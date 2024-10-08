@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//negreacristian.github.io/static/css/main.f855e6bc.css",
+    "main.js": "//negreacristian.github.io/static/js/main.402f4cec.js",
+    "static/js/453.ed3810f9.chunk.js": "//negreacristian.github.io/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "//negreacristian.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "//negreacristian.github.io/index.html",
+    "main.f855e6bc.css.map": "//negreacristian.github.io/static/css/main.f855e6bc.css.map",
+    "main.402f4cec.js.map": "//negreacristian.github.io/static/js/main.402f4cec.js.map",
+    "453.ed3810f9.chunk.js.map": "//negreacristian.github.io/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.402f4cec.js"
+  ]
+}
