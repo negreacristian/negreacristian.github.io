@@ -1,0 +1,19 @@
+- title: 'Lecturer'
+  description: 'SSIP - The Summer School on Image Processing'
+  details:
+    - 'Organised at University of Szeged, 2024,2023, 2022, 2021, 2020, 2019'
+    - 'Organised at University of Novi Sad, 2023'
+    
+- title: 'Lecturer'
+  description: 'West Summer University, organized by West University of Timișoara'
+  details:
+    - 'Lecturer for "Machine Learning Applied on EO Data", 2021'
+    - 'Lecturer for "Introduction to Python", 2018 and 2020'
+
+- title: 'Teaching Assistant'
+  description: 'West University of Timișoara (Fall 2016 – February 2023)'
+  details:
+    - 'Instructor for "Python Programming" lecture, starting from 2018, each fall semester'
+    - 'Instructor for "C Programming" lecture, 2016, 2017, each fall semester'
+    - 'Instructor for "Algorithms and Data Structures I and II" lecture, each fall and spring semester'
+

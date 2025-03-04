@@ -1,0 +1,35 @@
+<div class="row g-5 mb-5">
+  <div>
+    {% if page.title == "Home" %}
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Latest Publications</h3>
+      {% for item in site.data.publications.featured %}
+       {% if item.urlshort %}
+    <p><a href="{{ item.url}}">{{ item.name }}</a></p>
+    <p><a href="{{ item.url-short}}">{{ Summary }}</a></p>
+  {% else %}
+    <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+  {% endif %}
+      {% endfor %}
+    {% else %}
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Latest Publications</h3>
+    <p>View the entire list of scientific publications on the <a href="https://scholar.google.com/citations?user=dqXsO5MAAAAJ&hl=ro" target="_blank">Google Scholar Profile</a> </p>
+      {% for item in site.data.publications.index %}
+       {% if item.urlshort %}
+    <p><a href="{{ item.url}}">{{ item.name }}</a></p>
+    <p><a href="{{ item.urlshort}}">{{ Summary }}</a></p>
+  {% else %}
+    <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+  {% endif %}
+      {% endfor %}
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Awards</h3>
+    {% for item in site.data.awards.index %}
+        <p>{{ item.name }}</p>
+        <ul>
+            {% for detail in item.details %}
+            <li>{{ detail }}</li>
+            {% endfor %}
+          </ul>
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
