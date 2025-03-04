@@ -3,11 +3,6 @@ menu:
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
-people:
-- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
-
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
 - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
@@ -15,7 +10,7 @@ courses:
 
 social:
 - {icon: 'github', link: 'https://github.com/tselea'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/teodora-selea'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/cristian-negrea'}
 
 contacts:
-- {name: 'Teodora Selea', academia: 'West University of Timisoara', email-academia: 'teodora.selea@e-uvt.ro', industry: 'GMV Innovating Solutions', email-industry: 'teodora.selea@gmv.com', phone: '(000) 000-0000', email: 'teodoraselea@gmail.com', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Cristian Negrea', academia: 'West University of Timisoara', email-academia: 'negreacristi22@gmail.com', industry: 'GMV Innovating Solutions', email-industry: 'teodora.selea@gmv.com', phone: '(000) 000-0000', email: 'teodoraselea@gmail.com', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
