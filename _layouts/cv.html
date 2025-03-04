@@ -1,0 +1,91 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-3">CV 
+    <a href="https://drive.google.com/file/d/1a_GmoYO-c7NWyr5Q3oC1Tq1G-j6wy3al/view?usp=sharing" target="_blank">(Download the short version here)</a> </h3>
+
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4>Geospatial AI Engineer</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.ai-gmv-experience %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+          <ul>
+            {% for detail in section.details %}
+            <li>{{ detail }}</li>
+            {% endfor %}
+          </ul>
+        {% endfor %}
+      </div>
+
+    <div class="row g-5 mb-3">
+      <div class="col-md-2">
+        <h4>Junior Researcher</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.sw-uvt-experience %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+          <ul>
+            {% for detail in section.details %}
+            <li>{{ detail }}</li>
+            {% endfor %}
+          </ul>
+        {% endfor %}
+      </div>
+    <div class="row g-5 mb-3">
+      <div class="col-md-2">
+        <h4>Software Developer</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.sw-uvt-experience %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+          <ul>
+            {% for detail in section.details %}
+            <li>{{ detail }}</li>
+            {% endfor %}
+          </ul>
+        {% endfor %}
+      </div>
+    <div class="row g-5 mb-3">
+      <div class="col-md-2">
+        <h4>Education</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.education %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+          <ul>
+            {% for detail in section.details %}
+            <li>{{ detail }}</li>
+            {% endfor %}
+          </ul>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="row g-5 mb-3">
+      <div class="col-md-2">
+        <h4>Academic Experience</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.academic-experience %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+          <ul>
+            {% for detail in section.details %}
+            <li>{{ detail }}</li>
+            {% endfor %}
+          </ul>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

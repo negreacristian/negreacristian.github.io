@@ -1,0 +1,11 @@
+- title: 'H2020 HARMONIA Project (September 2021 - June 2024)'
+  description: 'West University of Timișoara'
+  details:
+    - 'Analyzing and implementing AI/ML models to handle air quality data: sensor data, Milan area'
+    - 'Technologies: Python - Pandas, PyTorch, Holoviz'
+    
+- title: 'SCAMP-ML: Advanced computational statistics for production planning (December 2021 - January 2024)'
+  description: 'West University of Timișoara'
+  details:
+    - 'Implementing and adapting production planning algorithms: LETSA, B-Split'
+    - 'Technologies: Python'

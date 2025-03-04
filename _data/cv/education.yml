@@ -1,0 +1,28 @@
+- title: 'PhD in Computer Science'
+  description: 'West University of Timișoara'
+  details:
+    - 'Thesis title: A Data-Centric AI Approach to Crop Detection with Deep Learning'
+    - 'Developed a large-scale dataset for Crop Detection'
+    - 'Applied Dynamic Time Warping Barycenter Averaging for crop parcel aggregation'
+    - 'Used deep learning anomaly detection to improve dataset quality'
+    - 'Technologies: Python, Rasterio, Geopandas, Dask-Geopandas, Dask, Stackstac, PyStac, Datashader, Xarray-spatial, PyTorch'
+
+- title: 'MSc in Computer Science'
+  description: 'West University of Timișoara'
+  details:
+    - 'Thesis: Processing Earth Observation images (semantic segmentation) using Machine Learning techniques'
+    - 'Preprocessed satellite images using a tiling strategy'
+    - 'Applied CNN architectures for semantic segmentation'
+    - 'Proposed a pixel result aggregation strategy based on entropy'
+    - 'Technologies: Python, Keras with TensorFlow backend'
+
+- title: 'BSc in Computer Science'
+  description: 'West University of Timișoara'
+  details:
+    - 'Thesis: Digital Heritage Preservation Systems' 
+    - 'Java application with a web UI, that allows users to download the desired web pages, in order to preserve their content.'
+    - 'Technologies: Java, Heritrix, Apache Solr, Spring Boot, Bootstrap.'
+
+- title: 'Teaching Training Program'
+  description: 'West University of Timișoara'
+  details: 'Module I and II of the Psycho-Pedagogical Programme'

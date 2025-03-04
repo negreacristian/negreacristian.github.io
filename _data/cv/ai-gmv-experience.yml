@@ -1,0 +1,14 @@
+- title: 'Horizon Europe S34I Project: Secure and Sustainable Supply of Raw Materials for EU Industry'
+  description: 'GMV Innovating Solutions (January 2023 - Present)'
+  details:
+    - 'Developed a deep learning model for multi-sensor (Sentinel-1 and COSMO-SkyMed) SAR super-resolution of mining sites'
+    - 'Technologies: Python, PyTorch'
+
+- title: 'Horizon Europe EMERITUS Project'
+  description: 'GMV Innovating Solutions (January 2023 - Present)'
+  details:
+    - 'Leveraged EO-based monitoring and analysis techniques to implement a protocol for waste crime investigation for the Romanian Environmental Agency'
+    - 'Developed AI/ML Pytorch Lightning framework for experimental workflow'
+    - 'Benchmarked state-of-the-art models for super-resolution on Sentinel-2'
+    - 'Applied super-resolution deep learning models on Sentinel-2 data as pre-processing in waste detection use-case'
+    - 'Technologies: Python, PyTorch'

@@ -1,0 +1,11 @@
+featured:
+- {name: 'PhD Thesis: A Data-Centric AI Approach to Crop Detection with Deep Learning, Teodora Selea, Coordinated by prof. dr. Dana Petcu), 2024.', url: 'https://drive.google.com/file/d/18Lm0QMDgiEoriM5vlYi2AndFetmNSHCM/view?usp=sharing', urlshort: 'https://drive.google.com/file/d/1b5hvNC-YaPvWIPcK6lFFLP2nwInTpq-m/view?usp=sharing'}
+- {name: 'PhD Thesis Summary 2024', url: 'https://drive.google.com/file/d/1b5hvNC-YaPvWIPcK6lFFLP2nwInTpq-m/view?usp=sharing'}
+- {name: 'AgriSen-COG: A Multicountry, Multitemporal Large-Scale Sentinel-2 Benchmark Dataset for Crop Mapping Using Deep Learning. Teodora Selea, 2023.', url: 'https://www.mdpi.com/2072-4292/15/12/2980'}
+- {name: 'Super-Resolving Waste Dumps from Space with Deep Learning: Romania Region Using Sentinel-2 and SPOT6/7. Teodora Selea et al., 2023.', url: 'https://publications.jrc.ec.europa.eu/repository/handle/JRC135493'}
+
+index:
+- {name: 'PhD Thesis: A Data-Centric AI Approach to Crop Detection with Deep Learning, Teodora Selea, Coordinated by prof. dr. Dana Petcu, 2024.', url: 'https://drive.google.com/file/d/18Lm0QMDgiEoriM5vlYi2AndFetmNSHCM/view?usp=sharing', urlshort: 'https://drive.google.com/file/d/1b5hvNC-YaPvWIPcK6lFFLP2nwInTpq-m/view?usp=sharing'}
+- {name: 'PhD Thesis Summary 2024', url: 'https://drive.google.com/file/d/1b5hvNC-YaPvWIPcK6lFFLP2nwInTpq-m/view?usp=sharing'}
+- {name: 'AgriSen-COG: A Multicountry, Multitemporal Large-Scale Sentinel-2 Benchmark Dataset for Crop Mapping Using Deep Learning. Teodora Selea, Remote Sensing, vol. 15, no. 12, pp. 2980, 2023.', url: 'https://www.mdpi.com/2072-4292/15/12/2980'}
+- {name: 'Super-Resolving Waste Dumps from Space with Deep Learning: Romania Region Using Sentinel-2 and SPOT6/7. Teodora Selea et al., Proceedings of the 2023 Big Data from Space Conference, Luxembourg, 2023, doi:10.2760/46796.', url: 'https://publications.jrc.ec.europa.eu/repository/handle/JRC135493'}
